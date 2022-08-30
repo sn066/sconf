@@ -1,0 +1,3 @@
+servers:
+  - {"name": "server-01", "type": "ss", "server": "server-addr", "port": "port", "cipher": "ciper", "password": "passwd", "udp": false}
+  - {"name": "server-02", "type": "ss", "server": "server-addr", "port": "port", "cipher": "ciper", "password": "passwd", "udp": false}
